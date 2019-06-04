@@ -1,16 +1,21 @@
 # ips-eslint-config
 
-## Quick start
-```npm i @ips/eslint-config -D```
-of
-```yarn add @ips/eslint-config -D```
+1. Install the correct versions of each package, which are listed by the command:
 
-## Configuration
-
-Create ```.eslintrc``` 
+```bash
+npm info "@ips/eslint-config" peerDependencies
 ```
+
+2. Install all dependecies:
+
+```bash
+npx install-peerdeps --dev @ips/eslint-config
+```
+
+3. Add next line to your `.eslintrc` or `.eslintrc.js`:
+
+```json
 {
-  "parser": "babel-eslint",
-  "extends": ["ips-config"],
+  "extends": "@ips/eslint-config"
 }
 ```
