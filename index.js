@@ -36,6 +36,7 @@ module.exports = {
         'react/prop-types': 0,
         'react/jsx-indent-props': 0,
         'react/forbid-prop-types': 0,
+        'react-extra/no-inline-styles': 0,
       },
     },
   ],
