@@ -3,19 +3,19 @@
 1. Install the correct versions of each package, which are listed by the command:
 
 ```bash
-npm info "@ips/eslint-config" peerDependencies
+npm info "@ips-frontend/eslint-config" peerDependencies
 ```
 
 2. Install all dependecies:
 
 ```bash
-npx install-peerdeps --dev @ips/eslint-config
+npx install-peerdeps --dev @ips-frontend/eslint-config
 ```
 
 3. Add next line to your `.eslintrc` or `.eslintrc.js`:
 
 ```json
 {
-  "extends": "@ips/eslint-config"
+  "extends": "@ips-frontend/eslint-config"
 }
 ```
