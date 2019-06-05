@@ -1,6 +1,6 @@
 # ips-eslint-config
 
-1. Install eslint
+1. Install eslint 
 
 ```bash
 @ips-frontend/eslint-config -D
