@@ -1,4 +1,4 @@
-# ips-eslint-config 
+# ips-eslint-config
 
 1. Install the correct versions of each package, which are listed by the command:
 
