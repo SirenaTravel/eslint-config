@@ -1,9 +1,9 @@
 # ips-eslint-config
 
-1. Install eslint
+1. Install eslint 
 
 ```bash
-@ips-frontend/eslint-config -D
+yarn add @ips-frontend/eslint-config -D
 ```
 
 2. Install the correct versions of each package, which are listed by the command:
