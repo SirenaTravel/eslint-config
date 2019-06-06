@@ -6,6 +6,7 @@
   "author": "Maxim <mgreen097@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
+    "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-import": "^2.14.0",
@@ -16,8 +17,5 @@
     "eslint-plugin-react": "^7.11.0",
     "eslint-plugin-react-extra": "^0.1.0",
     "eslint-plugin-react-hooks": "^1.6.0"
-  },
-  "devDependencies": {
-    "react": "^16.8.6"
   }
 }
