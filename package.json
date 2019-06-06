@@ -5,6 +5,9 @@
   "repository": "git@github.com:SirenaTravel/eslint-config.git",
   "author": "Maxim <mgreen097@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "preinstall": "npx install-peerdeps --dev @ips-frontend/eslint-config"
+  },
   "peerDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.0",
