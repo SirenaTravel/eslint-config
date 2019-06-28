@@ -27,6 +27,7 @@ module.exports = {
     'import/prefer-default-export': 0,
     'react/jsx-filename-extension': 0,
     'react/jsx-wrap-multilines': 0,
+    'react/forbid-prop-types': 0,
     'react-extra/no-inline-styles': 2,
   },
   overrides: [
