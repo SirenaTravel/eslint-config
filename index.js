@@ -18,6 +18,7 @@ module.exports = {
   plugins: ['jest', 'react-hooks', 'prettier', 'react-extra'],
   rules: {
     'no-unused-vars': 1,
+    'no-console': 2,
     'newline-before-return': 2,
     'arrow-body-style': 2,
     'import/no-default-export': 2,
