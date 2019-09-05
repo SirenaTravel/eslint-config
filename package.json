@@ -1,6 +1,6 @@
 {
   "name": "@ips-frontend/eslint-config",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "main": "index.js",
   "repository": "git@github.com:SirenaTravel/eslint-config.git",
   "author": "Maxim <mgreen097@gmail.com>",
