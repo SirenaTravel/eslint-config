@@ -15,7 +15,6 @@ module.exports = {
   },
   parser: 'babel-eslint',
   extends: ['airbnb', 'prettier'],
-  plugins: ['jest', 'react-hooks', 'prettier', 'react-extra'],
   rules: {
     'no-console': 2,
     'newline-before-return': 2,
