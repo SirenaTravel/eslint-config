@@ -22,6 +22,7 @@ module.exports = {
     'import/no-default-export': 2,
     'react-extra/no-inline-styles': 2,
     'jsx-a11y/anchor-is-valid': 0,
+    'jsx-a11y/control-has-associated-label': 0,
     'react/jsx-closing-bracket-location': 0,
     'import/no-extraneous-dependencies': 0,
     'import/prefer-default-export': 0,
