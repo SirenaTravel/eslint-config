@@ -20,6 +20,7 @@ module.exports = {
     'newline-before-return': 2,
     'arrow-body-style': 2,
     'import/no-default-export': 2,
+    'react-extra/no-inline-styles': 2,
     'jsx-a11y/anchor-is-valid': 0,
     'react/jsx-closing-bracket-location': 0,
     'import/no-extraneous-dependencies': 0,
@@ -27,7 +28,7 @@ module.exports = {
     'react/jsx-filename-extension': 0,
     'react/jsx-wrap-multilines': 0,
     'react/forbid-prop-types': 0,
-    'react-extra/no-inline-styles': 2,
+    'react/jsx-curly-newline': 0,
   },
   overrides: [
     {
